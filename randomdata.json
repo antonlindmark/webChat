@@ -1,0 +1,23 @@
+{
+  "Users": "Squad",
+  "userNames": [
+    {
+      "ID": "01",
+      "name": "Anton Lindmark",
+      "age": "21",
+      "contacts": "Karl,Sarah"
+    },
+    {
+      "ID": "02",
+      "name": "Karl Eriksson",
+      "age": "26",
+      "contacts": "Anton,Sarah"
+    },
+    {
+      "ID": "03",
+      "name": "Sarah Silvferstad",
+      "age": "19",
+      "contacts": "Anton,Karl"
+    }
+  ]
+}
